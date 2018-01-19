@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.88);
+  font-family: 'VT323', monospace;
+  color: #1ec503;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.float-left-area  {
+	width: 30%;
+	float: left;
+}
+
+.float-right-area {
+	width: 70%;
+	float: right;
+}
